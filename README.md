@@ -201,8 +201,9 @@ const vikasKumar = {
 ---
 
 ---
+---
 
-## 🧠 HackerRank Profile & Achievements
+## 🧠 HackerRank Activity & Badges
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/vk0102103" target="_blank">
@@ -212,19 +213,26 @@ const vikasKumar = {
 
 <br/>
 
-<div align="center">
-  <img src="assets/hackerrank/hackerrank-profile.png" alt="HackerRank Profile Screenshot" width="85%" />
-</div>
+### 🏅 Badges Earned
+- 🐍 Python ⭐⭐⭐
+- 🧩 Problem Solving (In Progress)
+- 🛢️ SQL (Upcoming)
 
 <br/>
 
-### 📊 Highlights
-- 🐍 Python Badge: ⭐⭐⭐  
-- 🧩 Focus Area: Problem Solving & Python
-- 🔥 Regular practice on HackerRank
-- 🚀 Strengthening DSA & competitive programming skills
+### 📅 Practice Activity
+- 🔥 Regularly active on HackerRank
+- 📈 Continuous improvement in DSA & Python
+- 💻 Focused on problem-solving consistency
+
+<br/>
+
+<div align="center">
+  <img src="assets/hackerrank/hackerrank-profile.png" width="85%" />
+</div>
 
 ---
+
 
 
 ## 📈 Contribution Activity
