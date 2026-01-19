@@ -200,6 +200,33 @@ const vikasKumar = {
 
 ---
 
+---
+
+## 🧠 HackerRank Profile & Achievements
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/vk0102103" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-vk0102103-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/hackerrank/hackerrank-profile.png" alt="HackerRank Profile Screenshot" width="85%" />
+</div>
+
+<br/>
+
+### 📊 Highlights
+- 🐍 Python Badge: ⭐⭐⭐  
+- 🧩 Focus Area: Problem Solving & Python
+- 🔥 Regular practice on HackerRank
+- 🚀 Strengthening DSA & competitive programming skills
+
+---
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
