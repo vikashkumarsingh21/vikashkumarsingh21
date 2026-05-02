@@ -1,447 +1,299 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vikas%20Kumar%20Singh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55" />
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:161b22&height=250&section=header&text=Vikas%20Kumar%20Singh&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=58a6ff&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Innovator&descSize=17&descAlignY=62&descColor=8b949e" />
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Vikas+Kumar+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%A9;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikashkumarsingh21&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vikashkumarsingh21?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vikashkumarsingh21?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;AI+%26+ML+Engineer+in+Progress+%F0%9F%94%AC;IoT+%2B+AI+%3D+Smart+Automation+%E2%9A%A1;Hackathon+Winner+%7C+Real-World+Builder+%F0%9F%8F%86;Open+to+Collaborate+%26+Innovate+%F0%9F%9A%80" />
 
----
+<br/><br/>
 
-## 🌐 Connect With Me
+<!-- Profile badges -->
+<a href="https://www.linkedin.com/in/vikas-kumar-0803r/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vikas.kumar129118@marwadiuniversity.ac.in">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio-cb1t.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/vikashkumarsingh21">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/vk0102103">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://www.instagram.com/vikashsingh_21?igsh=MWdhZDc3bWZudzRrNA==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/vikas-kumar-0803r/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vk0102103@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/vikashkumarsingh21">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://portfolio-cb1t.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vikashkumarsingh21&style=flat-square&color=58a6ff&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/vikashkumarsingh21?style=flat-square&color=58a6ff&label=Followers" />
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## `whoami`
 
-## 🚀 About Me
+```python
+class VikasKumarSingh:
+    def __init__(self):
+        self.name        = "Vikas Kumar Singh"
+        self.role        = "AI & ML Engineer | Full Stack Developer | IoT Builder"
+        self.university  = "Marwadi University, Rajkot, Gujarat"
+        self.degree      = "B.Tech CSE – AI & ML (2024–Present) | CGPA: 7.85"
+        self.contact     = "vikas.kumar129118@marwadiuniversity.ac.in | +91 9473263768"
+        self.location    = "India 🇮🇳"
 
-```javascript
-const vikasKumar = {
-  name: "Vikas Kumar Singh",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  education: "Computer Science AI&ML Student",
-  pronouns: "He/Him",
-  
-  code: {
-    languages: ["C", "C++", "Python", "JavaScript", "HTML5", "CSS3"],
-    frontend: {
-      frameworks: ["Bootstrap", "Tailwind CSS"],
-      skills: ["Responsive Design", "UI/UX"]
-    },
-    backend: {
-      platforms: ["Firebase", "Node.js"],
-      databases: ["MongoDB", "Firebase Firestore"]
-    },
-    tools: ["Git", "GitHub", "GitLab", "VS Code"],
-    devOps: ["GitHub Actions", "Render"],
-    hardware: ["Raspberry Pi", "Arduino"]
-  },
-  
-  expertise: [
-    "Data Structures & Algorithms",
-    "Problem Solving",
-    "Web Development",
-    "Database Design",
-    "Version Control"
-  ],
-  
-  currentFocus: "Building scalable web applications 🌐",
-  learning: ["React.js", "Node.js", "System Design", "Cloud Computing"],
-  interests: ["Open Source", "Competitive Programming", "Tech Blogging"],
-  
-  funFacts: [
-    "🐛 I debug with console.log()",
-    "☕ Coffee + Code = Magic",
-    "🌙 Night owl developer",
-    "📚 Documentation enthusiast"
-  ],
-  
-  motto: "Code is poetry written in logic ✨"
-};
+    @property
+    def skills(self):
+        return {
+            "Languages"   : ["Python", "C", "C++", "JavaScript", "PHP", "Embedded C"],
+            "AI / ML"     : ["NumPy", "Pandas", "Matplotlib", "Scikit-learn",
+                             "OpenCV", "NLP", "Speech Recognition", "Seaborn"],
+            "Web & Backend": ["HTML5", "CSS3", "Bootstrap", "PHP", "MySQL",
+                              "REST APIs", "Firebase", "MongoDB"],
+            "Embedded / IoT": ["Arduino", "NodeMCU", "ESP32", "Raspberry Pi"],
+            "Tools"       : ["Git", "GitHub", "VS Code", "Anaconda",
+                             "PHPMyAdmin", "Render"],
+        }
+
+    @property
+    def achievements(self):
+        return [
+            "🥉 2nd Runner-Up — Intellify Hackathon 3.0 (2025)",
+            "🏆 Theme Winner (Agri-Food Tech) — Sustain-A-Thon 2025",
+            "⚡ Built IoT + AI system reducing water waste by 40%",
+            "🤖 Autonomous river-cleaning robot w/ AI navigation",
+        ]
+
+    def current_focus(self):
+        print("📌 React.js  |  System Design  |  Cloud Computing  |  Deep Learning")
 ```
 
-<br clear="right"/>
-
 ---
 
-## 💻 Tech Stack & Tools
-
-<details open>
-<summary><b>🔤 Programming Languages</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
-</details>
-
-<details open>
-<summary><b>📊 Data Science & Visualization</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 Hardware & IoT</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/-ESP32-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="ESP32" />
-</p>
-</details>
+## 🏆 Awards & Recognition
 
 <div align="center">
-  <br>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+
+| 🎖️ Award | 🏛️ Event | 📅 Year |
+|:---|:---|:---:|
+| 🥉 **2nd Runner-Up** | Intellify Hackathon 3.0 | 2025 |
+| 🏆 **Theme Winner** — Agri-Food Tech | Sustain-A-Thon | 2025 |
+
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🔬 Featured Projects
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vikashkumarsingh21&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Vikas Kumar Singh GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=vikashkumarsingh21&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumarsingh21&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vikashkumarsingh21&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="Wakatime Stats" />
-</div>
+### 💧 Smart Irrigation System
+> **IoT + AI + Firebase**
 
-<br/>
+Real-time soil & weather monitoring via **Arduino + NodeMCU**. ML-based weather prediction integrated with Firebase dashboard for remote motor control. Reduced water wastage by **40%**.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikashkumarsingh21&theme=radical" alt="GitHub Profile Summary" />
-</div>
+`Arduino` `NodeMCU` `Firebase` `ML` `Python` `IoT`
 
----
+[![Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=flat-square&logo=vercel&logoColor=white)](#) [![Code](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](#)
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashkumarsingh21&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
----
----
-
-## 🧠 HackerRank Activity & Badges
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/vk0102103" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-vk0102103-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-### 🏅 Badges Earned
-- 🐍 Python ⭐⭐⭐
-- 🧩 Problem Solving (In Progress)
-- 🛢️ SQL (Upcoming)
-
-<br/>
-
-### 📅 Practice Activity
-- 🔥 Regularly active on HackerRank
-- 📈 Continuous improvement in DSA & Python
-- 💻 Focused on problem-solving consistency
-
-<br/>
-
-<div align="center">
-  <img src="assets/hackerrank/hackerrank-profile.png" width="85%" />
-</div>
-
----
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumarsingh21&custom_title=Vikas's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikashkumarsingh21&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/vikashkumarsingh21/project1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashkumarsingh21&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/vikashkumarsingh21/project2">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashkumarsingh21&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vikashkumarsingh21/project3">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashkumarsingh21&repo=project3&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/vikashkumarsingh21/project4">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashkumarsingh21&repo=project4&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-  </a>
-</div>
-
----
-
-## 🎯 2024 Goals & Achievements
-
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
-      <br><b>Master DSA</b>
-      <br><sub>Solve 50+ Problems</sub>
-      <br>
-      <img src="https://progress-bar.dev/65?title=Progress&width=120&color=00D9FF" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/web.png" width="60"/>
-      <br><b>Full Stack</b>
-      <br><sub>Build 15+ Projects</sub>
-      <br>
-      <img src="https://progress-bar.dev/80?title=Progress&width=120&color=00D9FF" />
-    </td>
-    <!-- INTELLIFY 3.0 -->
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/prize.png" width="60"/>
-  <br><b>INTELLIFY 3.0</b>
-  <br><sub>2nd Runner-Up (2025)</sub>
-  <br>
-  <img src="https://progress-bar.dev/90?title=Achievement&width=120&color=00D9FF" />
 </td>
+<td width="50%" valign="top">
 
-<!-- Sustain-A-Thon -->
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/leaf.png" width="60"/>
-  <br><b>Sustain-A-Thon</b>
-  <br><sub>Theme Winner (2025)</sub>
-  <br>
-  <img src="https://progress-bar.dev/95?title=Achievement&width=120&color=00D9FF" />
+### 🤖 JalMitra — River Cleaning Robot
+> **Autonomous Robotics + AI**
+
+Solar-powered autonomous robot for river debris collection with real-time water quality monitoring. Uses **AI navigation**, integrated sensors, and microcontrollers for intelligent garbage detection.
+
+`Embedded C` `OpenCV` `Sensors` `AI` `Solar` `Robotics`
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=flat-square&logo=vercel&logoColor=white)](#) [![Code](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](#)
+
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Academic -->
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60"/>
-  <br><b>B.Tech CSE</b>
-  <br><sub>AI & ML Specialization</sub>
-  <br>
-  <img src="https://progress-bar.dev/50?title=In%20Progress&width=120&color=00D9FF" />
+### 📊 Placement Prediction System
+> **Machine Learning · Logistic Regression**
+
+ML model predicting student placement outcomes based on CGPA & IQ. Full pipeline: data preprocessing, feature analysis, visualization, and model evaluation using **Scikit-learn, Pandas & NumPy**.
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+[![Code](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](#)
+
 </td>
+<td width="50%" valign="top">
 
-  </tr>
+### 🌐 NGO Web Portal + Chatbot
+> **Full Stack · PHP + MySQL**
+
+Built dynamic NGO web application backend at **Spacece India Foundation**. Designed REST APIs, optimized DB queries, and contributed to a chatbot module for NGO digital outreach.
+
+`PHP` `MySQL` `REST API` `Chatbot` `PHPMyAdmin`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 💡 Random Dev Quote
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+
+**AI / Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Web & Backend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**IoT & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=espressif&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
 </div>
 
 ---
 
-## 😂 Random Dev Meme
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikashkumarsingh21&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=vikashkumarsingh21&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+
 </div>
 
 <div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumarsingh21&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumarsingh21&custom_title=Contribution+Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| 📜 Certification | 🏛️ Platform |
+|:---|:---:|
+| C++ Programming | Certification Authority |
+| ChatGPT for Everyone – AI Tools | Online Platform |
+| Hackathon Participation (2024–2025) | Multiple Events |
+| PHP Developer Internship | Spacece India Foundation |
+
+</div>
+
+---
+
+## 💼 Experience
+
+**PHP Developer Intern (Remote)**  `Dec 2025 – Feb 2026`
+> **Spacece India Foundation** via ConnectFor
+
+- Built backend features using **PHP & MySQL** for dynamic NGO web applications
+- Designed **REST APIs** for seamless frontend-backend data communication
+- Optimized database queries and backend logic for improved performance
+- Contributed to **chatbot module** and web portal for NGO digital solutions
+
+---
+
+## 🎯 Currently Learning
+
+```
+📌  React.js          →  Building dynamic, component-driven UIs
+📌  System Design     →  Architecting scalable backend systems
+📌  Cloud Computing   →  AWS / GCP deployment & infrastructure
+📌  Deep Learning     →  Neural networks, CNNs, NLP models
+```
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Getting Started with Full Stack Development](#)
-- 💻 [10 JavaScript Tips Every Developer Should Know](#)
-- 🎨 [Creating Beautiful UI with Tailwind CSS](#)
-- 🔐 [Understanding Web Security Best Practices](#)
-- 📊 [Data Structures Made Simple](#)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more on my blog...](#myvlogid)
-
----
-
-## 🎵 Spotify Playing
+## 📬 Let's Connect
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k7262rimer55acax4unlwdjefi&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" />
+
+> *Open to internships, research collaborations, and innovative project ideas.*
+
+<a href="mailto:vikas.kumar129118@marwadiuniversity.ac.in">
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vikas-kumar-0803r/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://portfolio-cb1t.onrender.com/">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub><b>📍 Rajkot, Gujarat, India &nbsp;·&nbsp; Last Updated: May 2026 &nbsp;·&nbsp; Made with 💙 and Python</b></sub>
+
 </div>
 
----
-
-## 🌟 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://www.patreon.com/yourusername">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-  </a>
-</div>
-
----
-
-## 💬 Ask Me About
-
-```yaml
-topics:
-  - Web Development (Frontend & Backend)
-  - Data Structures & Algorithms
-  - Competitive Programming
-  - Database Design & Optimization
-  - Git & Version Control
-  - Open Source Contribution
-  - IoT & Raspberry Pi Projects
-  - Tech Career Advice
-```
-
----
-
-## 📫 How to Reach Me
-
-<div align="center">
-  <a href="mailto:vk0102103@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://www.linkedin.com/in/vikas-kumar-0803r/">
-    <img src="https://img.shields.io/badge/Message%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/vikashkumarsingh21">
-    <img src="https://img.shields.io/badge/Follow%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <b>💡 "The best way to predict the future is to invent it." - Alan Kay</b>
-</p>
-
-<p align="center">
-  <b>🚀 I'm always excited to collaborate on innovative projects!</b><br/>
-  Feel free to reach out for opportunities, tech discussions, or just to connect! 👋
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vikashkumarsingh21&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visit Count" />
-  <br/><br/>
-  <b>⭐️ From <a href="https://github.com/vikashkumarsingh21">Vikas Kumar Singh</a> with ❤️</b>
-  <br/>
-  <sub>Last Updated: December 2025 | Made with 💻 and ☕</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" />
