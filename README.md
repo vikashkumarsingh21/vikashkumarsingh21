@@ -1,79 +1,80 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════╗ -->
-<!--        ANIMATED HEADER BANNER          -->
-<!-- ╚══════════════════════════════════════╝ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:0a192f,50:112240,75:0a192f,100:0d1117&height=300&section=header&text=Vikas%20Kumar%20Singh&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=64ffda&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Innovator&descSize=18&descAlignY=58&descColor=8892b0&stroke=64ffda&strokeWidth=2" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED HEADER BANNER                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:050d1a,50:0a192f,80:0d2137,100:0d1117&height=320&section=header&text=Vikas%20Kumar%20Singh&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=64ffda&desc=AI%20%26%20ML%20Engineer%20%7C%20IoT%20Innovator%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=58&descColor=8892b0&stroke=64ffda&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<!-- ANIMATED TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&random=false&width=800&lines=🧠+Building+Intelligent+AI+%26+ML+Systems;⚡+IoT+%2B+AI+%3D+Smart+Automation+%F0%9F%94%8C;🏆+Hackathon+Winner+%7C+Award-Winning+Builder;🤖+Autonomous+Robotics+%7C+Computer+Vision;🌐+Full+Stack+Developer+%7C+REST+APIs;🚀+Marwadi+University+%7C+CSE+AI+%26+ML;📍+Rajkot%2C+Gujarat%2C+India+🇮🇳" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=64FFDA&center=true&vCenter=true&random=false&width=820&lines=🧠+Building+Intelligent+AI+%26+ML+Systems;⚡+IoT+%2B+AI+%3D+Real-World+Automation;🤖+Computer+Vision+%26+Autonomous+Robotics;🏆+Hackathon+Winner+%7C+Award-Winning+Builder;🌐+Full+Stack+Developer+%7C+REST+APIs;🚀+B.Tech+CSE+AI+%26+ML+—+Marwadi+University;📍+Rajkot%2C+Gujarat%2C+India+🇮🇳" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES ROW 1 -->
+<!-- ─── SOCIAL BADGES ─── -->
+<a href="https://github.com/vikashkumarsingh21" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/vikas-kumar-0803r/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="mailto:vikas.kumar129118@marwadiuniversity.ac.in">
-<img src="https://img.shields.io/badge/University%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-<a href="mailto:vk0102103@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://portfolio-cb1t.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=64ffda"/>
 </a>&nbsp;
-<a href="https://github.com/vikashkumarsingh21" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="mailto:vk0102103@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
 <a href="https://www.hackerrank.com/profile/vk0102103" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- VISITOR & STATS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=vikashkumarsingh21&label=Profile+Views&color=64ffda&style=flat-square" alt="Profile Views"/>
+<!-- PROFILE META TAGS -->
+<img src="https://komarev.com/ghpvc/?username=vikashkumarsingh21&label=Profile+Views&color=64ffda&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/vikashkumarsingh21?label=Followers&style=flat-square&color=64ffda" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/vikashkumarsingh21?label=Followers&style=flat-square&color=64ffda"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/vikashkumarsingh21?label=Total+Stars&style=flat-square&color=yellow" alt="Stars"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-64ffda?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-64ffda?style=flat-square" alt="Focus"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=flat-square" alt="Open To Work"/>
+<img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-brightgreen?style=flat-square"/>
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="AI Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      WHOAMI SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img align="right" alt="AI Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 🧑‍💻 `whoami`
 
 ```python
 class VikasKumarSingh:
-    name       = "Vikas Kumar Singh"
-    title      = "AI & ML Engineer | Full Stack Developer"
-    university = "Marwadi University, Rajkot, Gujarat"
-    degree     = "B.Tech CSE – AI & ML  |  CGPA: 7.85 / 10"
-    phone      = "+91 9473263768"
-    email      = "vikas.kumar129118@marwadiuniversity.ac.in"
-    location   = "Rajkot, Gujarat, India 🇮🇳"
+
+    name        = "Vikas Kumar Singh"
+    title       = "AI & ML Engineer | Full Stack Developer"
+    university  = "Marwadi University, Rajkot, Gujarat"
+    degree      = "B.Tech CSE – AI & ML  |  CGPA: 7.85 / 10"
+    email       = "vk0102103@gmail.com"
+    location    = "Rajkot, Gujarat, India 🇮🇳"
 
     skills = {
-      "AI / ML"       : ["Python","NumPy","Pandas","Scikit-learn",
-                         "OpenCV","NLP","Speech Recognition","Seaborn"],
-      "Languages"     : ["C","C++","JavaScript","PHP","Embedded C"],
-      "Web & Backend" : ["HTML5","CSS3","Bootstrap","Node.js",
-                         "PHP","MySQL","REST APIs","Firebase","MongoDB"],
-      "IoT / Hardware": ["Arduino","NodeMCU","ESP32","Raspberry Pi"],
-      "Tools"         : ["Git","GitHub","VS Code","Anaconda",
-                         "PHPMyAdmin","Render","Firebase"],
+        "AI / ML"       : ["Python", "NumPy", "Pandas", "Scikit-learn",
+                           "OpenCV", "NLP", "Speech Recognition", "Seaborn"],
+        "Languages"     : ["C", "C++", "JavaScript", "PHP", "Embedded C"],
+        "Web & Backend" : ["HTML5", "CSS3", "Bootstrap", "Node.js",
+                           "PHP", "MySQL", "REST APIs", "Firebase", "MongoDB"],
+        "IoT / Hardware": ["Arduino", "NodeMCU", "ESP32", "Raspberry Pi"],
+        "Tools"         : ["Git", "GitHub", "VS Code", "Anaconda", "Firebase"],
     }
 
     achievements = [
@@ -84,15 +85,8 @@ class VikasKumarSingh:
     ]
 
     currently_learning = [
-        "React.js", "System Design",
-        "Cloud Computing (AWS/GCP)", "Deep Learning"
-    ]
-
-    fun_facts = [
-        "🐛  I debug with print() first, always",
-        "☕  Coffee + Code = Magic",
-        "🌙  Night-owl developer",
-        "📚  Documentation enthusiast",
+        "React.js", "Deep Learning",
+        "Cloud Computing (AWS / GCP)", "System Design"
     ]
 
     motto = "Code is poetry written in logic ✨"
@@ -102,16 +96,20 @@ class VikasKumarSingh:
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENTS SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🏆 Awards & Recognition
 
 <div align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/🥉%20Intellify%203.0%20Hackathon-2nd%20Runner--Up%20%7C%202025-FFD700?style=for-the-badge&labelColor=0a192f&color=FFD700" alt="Intellify"/>
+  <img src="https://img.shields.io/badge/🥉%20Intellify%203.0%20Hackathon-2nd%20Runner--Up%20%7C%202025-FFD700?style=for-the-badge&labelColor=0a192f"/>
 </a>
 &nbsp;&nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/🏆%20Sustain--A--Thon%202025-Theme%20Winner%20%7C%20Agri--Food%20Tech-64ffda?style=for-the-badge&labelColor=0a192f&color=64ffda" alt="Sustain-A-Thon"/>
+  <img src="https://img.shields.io/badge/🏆%20Sustain--A--Thon%202025-Theme%20Winner%20%7C%20Agri--Food%20Tech-64ffda?style=for-the-badge&labelColor=0a192f"/>
 </a>
 
 <br/><br/>
@@ -119,22 +117,24 @@ class VikasKumarSingh:
 <table>
 <tr>
 <td align="center" width="50%">
+
 <img src="https://img.icons8.com/fluency/64/prize.png" width="52"/>
 <br/>
-<b>🥉 Intellify Hackathon 3.0</b>
-<br/>
-<sub><i>2nd Runner-Up · Smart Irrigation System</i></sub>
+<b>🥉 Intellify Hackathon 3.0</b><br/>
+<sub><i>2nd Runner-Up · Smart Irrigation System · 2025</i></sub>
 <br/><br/>
-<sub>Built AI + IoT automated water management system with ML-based weather prediction for sustainable agriculture</sub>
+<sub>Built an AI + IoT automated water management system with ML-based weather prediction for sustainable precision agriculture</sub>
+
 </td>
 <td align="center" width="50%">
+
 <img src="https://img.icons8.com/fluency/64/leaf.png" width="52"/>
 <br/>
-<b>🏆 Sustain-A-Thon 2025</b>
-<br/>
+<b>🏆 Sustain-A-Thon 2025</b><br/>
 <sub><i>Theme Winner · Agri-Food Technology</i></sub>
 <br/><br/>
-<sub>AI & IoT smart irrigation solution reducing water waste by 40%, selected as best project in Agri-Food Tech theme</sub>
+<sub>AI & IoT smart irrigation solution reducing water waste by 40%, selected as the best project in the Agri-Food Tech theme</sub>
+
 </td>
 </tr>
 </table>
@@ -143,14 +143,18 @@ class VikasKumarSingh:
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   WORK EXPERIENCE SECTION                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🖥️ PHP Developer Intern — Spacece India Foundation (Remote)</b> &nbsp;&nbsp; <code>Dec 2025 – Feb 2026</code></summary>
+<summary><b>🖥️ PHP Developer Intern — Spacece India Foundation (Remote)</b> &nbsp; <code>Dec 2025 – Feb 2026</code></summary>
 
 <br/>
 
-> **via ConnectFor NGO Platform** &nbsp; | &nbsp; [View Certificate](#)
+> **via ConnectFor NGO Platform**
 
 | | |
 |---|---|
@@ -162,6 +166,10 @@ class VikasKumarSingh:
 </details>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS SECTION                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -186,7 +194,7 @@ Real-time monitoring of **soil moisture, temperature & rainfall** via Arduino & 
 **Stack:** `Arduino` `NodeMCU` `Firebase` `Python` `ML` `IoT`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-64ffda?style=flat-square&logo=vercel&logoColor=black)](#)
-[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vikashkumarsingh21)
 
 </td>
 <td width="50%" valign="top">
@@ -198,8 +206,7 @@ Real-time monitoring of **soil moisture, temperature & rainfall** via Arduino & 
 
 **Stack:** `Embedded C` `OpenCV` `Raspberry Pi` `Sensors` `AI`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-64ffda?style=flat-square&logo=vercel&logoColor=black)](#)
-[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vikashkumarsingh21)
 
 </td>
 </tr>
@@ -209,11 +216,11 @@ Real-time monitoring of **soil moisture, temperature & rainfall** via Arduino & 
 ### 📊 Placement Prediction System
 > **Machine Learning · Logistic Regression**
 
-ML model predicting student placement based on **CGPA & IQ score**. Full pipeline — data preprocessing, EDA, feature analysis, evaluation using Scikit-learn.
+ML model predicting student placement based on **CGPA & IQ score**. Full pipeline — data preprocessing, EDA, feature analysis & model evaluation using Scikit-learn.
 
 **Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
-[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vikashkumarsingh21)
 
 </td>
 <td width="50%" valign="top">
@@ -225,11 +232,17 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 
 **Stack:** `PHP` `MySQL` `REST API` `Bootstrap` `Chatbot`
 
+[![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vikashkumarsingh21)
+
 </td>
 </tr>
 </table>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -237,12 +250,11 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 <summary><b>🧠 AI / Machine Learning</b></summary>
 <br/>
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 </details>
@@ -251,11 +263,7 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20C-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,php&theme=dark"/>
 </p>
 </details>
 
@@ -263,13 +271,7 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 <summary><b>🌐 Web & Backend</b></summary>
 <br/>
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,php,mysql,mongodb,firebase&theme=dark"/>
 </p>
 </details>
 
@@ -277,8 +279,8 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 <summary><b>⚡ IoT & Hardware</b></summary>
 <br/>
 <p align="left">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+&nbsp;
 <img src="https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeMCU-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
@@ -288,25 +290,26 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br/>
 <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 </details>
 
 <div align="center">
 <br/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70"/>
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="70" height="70"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70"/>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
@@ -320,19 +323,19 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumarsingh21&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vikashkumarsingh21&hide_border=true&title_color=64ffda&text_color=8892b0&bg_color=0d1117&layout=compact" alt="Wakatime Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikashkumarsingh21&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
 <div align="center">
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikashkumarsingh21&theme=github_dark" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumarsingh21&custom_title=Vikas%27s%20Contribution%20Graph&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumarsingh21&custom_title=Vikas%27s+Contribution+Graph&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB TROPHIES                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏅 GitHub Trophies
 
@@ -342,13 +345,9 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=vikashkumarsingh21&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributions"/>
-</div>
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -362,20 +361,119 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 
 ---
 
-## 📈 Contribution Activity
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   LEARNING GOALS SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎯 2025–2026 Goals & Progress
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumarsingh21&custom_title=Vikas+Kumar+Singh+Activity+Graph&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=FFFFFF&area=true&area_color=64ffda" alt="Activity Graph"/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="50"/>
+  <br/><b>Deep Learning</b>
+  <br/><sub>CNNs · RNNs · Transformers</sub>
+  <br/>
+  <img src="https://progress-bar.dev/30?title=Progress&width=130&color=64ffda"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.icons8.com/fluency/64/react.png" width="50"/>
+  <br/><b>React.js</b>
+  <br/><sub>Component-Driven UI</sub>
+  <br/>
+  <img src="https://progress-bar.dev/45?title=Progress&width=130&color=64ffda"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.icons8.com/fluency/64/cloud.png" width="50"/>
+  <br/><b>Cloud Computing</b>
+  <br/><sub>AWS / GCP</sub>
+  <br/>
+  <img src="https://progress-bar.dev/20?title=Progress&width=130&color=64ffda"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.icons8.com/fluency/64/server.png" width="50"/>
+  <br/><b>System Design</b>
+  <br/><sub>Scalable Architecture</sub>
+  <br/>
+  <img src="https://progress-bar.dev/25?title=Progress&width=130&color=64ffda"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.icons8.com/fluency/64/graduation-cap.png" width="50"/>
+  <br/><b>B.Tech CSE AI&ML</b>
+  <br/><sub>CGPA: 7.85 / 10</sub>
+  <br/>
+  <img src="https://progress-bar.dev/50?title=In+Progress&width=130&color=64ffda"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🧠 HackerRank Activity & Badges
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ASK ME ABOUT SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 💬 Ask Me About
+
+```yaml
+expertise:
+  ai_ml:
+    - Machine Learning (Scikit-learn, Pandas, NumPy)
+    - Computer Vision (OpenCV)
+    - Natural Language Processing
+    - Speech Recognition & Data Visualization
+  iot_hardware:
+    - Arduino & NodeMCU Programming
+    - ESP32 & Raspberry Pi Projects
+    - Sensor Integration & Smart Automation
+    - Precision Agriculture Systems
+  web_development:
+    - Full Stack (PHP, Node.js, Firebase)
+    - REST API Design & Integration
+    - Database Design (MySQL, MongoDB)
+    - Bootstrap & Responsive UI
+  other:
+    - Data Structures & Algorithms (C / C++ / Python)
+    - Hackathon Strategy & Rapid Prototyping
+    - Git & Version Control
+    - Open Source Contribution
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CERTIFICATIONS SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📜 Certifications
+
+<div align="center">
+
+| 📜 Certificate | 🏛️ Issuer | 🔗 |
+|:---|:---|:---:|
+| C++ Programming | Certification Authority | [View](#) |
+| ChatGPT for Everyone – AI Tools | Online Platform | [View](#) |
+| PHP Developer Internship | Spacece India Foundation | [View](#) |
+| Hackathon Participation (2024–2025) | Multiple Events | [View](#) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   HACKERRANK SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧠 HackerRank Activity
 
 <div align="center">
 
 <a href="https://www.hackerrank.com/profile/vk0102103" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-vk0102103-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-vk0102103-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -388,148 +486,35 @@ Dynamic NGO web application with REST API backend, optimized database queries & 
 
 <br/>
 
-🔥 **Regularly active** · 📈 **Continuous improvement in DSA & Python** · 💻 **Focused on problem-solving consistency**
+🔥 **Regularly active** &nbsp;·&nbsp; 📈 **Continuous improvement in DSA & Python** &nbsp;·&nbsp; 💻 **Focused on problem-solving consistency**
 
 </div>
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| 📜 Certificate | 🏛️ Issuer | 🔗 Link |
-|:---|:---|:---:|
-| C++ Programming | Certification Authority | [View](#) |
-| ChatGPT for Everyone – AI Tools | Online Platform | [View](#) |
-| PHP Developer Internship | Spacece India Foundation | [View](#) |
-| Hackathon Participation (2024–2025) | Multiple Events | [View](#) |
-
-</div>
-
----
-
-## 🎯 2025–2026 Goals & Progress
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="50"/>
-<br/><b>Deep Learning</b>
-<br/><sub>CNNs, RNNs, Transformers</sub>
-<br/>
-<img src="https://progress-bar.dev/30?title=Progress&width=130&color=64ffda"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/react.png" width="50"/>
-<br/><b>React.js</b>
-<br/><sub>Component-Driven UI</sub>
-<br/>
-<img src="https://progress-bar.dev/45?title=Progress&width=130&color=64ffda"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/cloud.png" width="50"/>
-<br/><b>Cloud Computing</b>
-<br/><sub>AWS / GCP</sub>
-<br/>
-<img src="https://progress-bar.dev/20?title=Progress&width=130&color=64ffda"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/server.png" width="50"/>
-<br/><b>System Design</b>
-<br/><sub>Scalable Architecture</sub>
-<br/>
-<img src="https://progress-bar.dev/25?title=Progress&width=130&color=64ffda"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/graduation-cap.png" width="50"/>
-<br/><b>B.Tech CSE AI&ML</b>
-<br/><sub>CGPA: 7.85 / 10</sub>
-<br/>
-<img src="https://progress-bar.dev/50?title=In+Progress&width=130&color=64ffda"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💬 Ask Me About
-
-```yaml
-expertise:
-  ai_ml:
-    - Machine Learning (Scikit-learn, Pandas, NumPy)
-    - Computer Vision (OpenCV)
-    - Natural Language Processing
-    - Speech Recognition
-    - Data Analysis & Visualization
-  iot_hardware:
-    - Arduino & NodeMCU Programming
-    - ESP32 & Raspberry Pi Projects
-    - Sensor Integration & Automation
-    - Smart Agriculture Systems
-  web_development:
-    - Full Stack (PHP, Node.js, Firebase)
-    - REST API Design & Integration
-    - Database Design (MySQL, MongoDB)
-    - Bootstrap & Tailwind CSS
-  other:
-    - Data Structures & Algorithms (C / C++ / Python)
-    - Competitive Programming
-    - Hackathon Strategy
-    - Git & Version Control
-    - Open Source Contribution
-```
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
-</div>
-
----
-
-## 😂 Random Dev Joke
-
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke"/>
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k7262rimer55acax4unlwdjefi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=64ffda&bar_color_cover=true" alt="Spotify Now Playing"/>
-</div>
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONTACT SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-> 🚀 *Open to internships, research collaborations, open-source projects & innovative ideas!*
+> 🚀 *Open to internships · research collaborations · open-source projects · AI & IoT innovations*
 
 <br/>
 
-<a href="mailto:vikas.kumar129118@marwadiuniversity.ac.in">
-<img src="https://img.shields.io/badge/📧%20University%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:vk0102103@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/vikas-kumar-0803r/">
-<img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://portfolio-cb1t.onrender.com/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/vikashkumarsingh21">
-<img src="https://img.shields.io/badge/⭐%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -538,15 +523,9 @@ expertise:
 
 <br/><br/>
 
-<b>💡 "The best way to predict the future is to invent it." — Alan Kay</b>
+> **💡 "The best way to predict the future is to invent it." — Alan Kay**
 
 <br/>
-
-<b>🚀 I'm always excited to collaborate on innovative projects!</b>
-<br/>
-Feel free to reach out for opportunities, tech discussions, or just to connect! 👋
-
-<br/><br/>
 
 <sub>
 ⭐ From <a href="https://github.com/vikashkumarsingh21">Vikas Kumar Singh</a> with ❤️
@@ -558,4 +537,8 @@ Feel free to reach out for opportunities, tech discussions, or just to connect! 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:112240&height=120&section=footer&animation=twinkling&fontColor=64ffda" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER WAVE                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:112240&height=120&section=footer&animation=twinkling&fontColor=64ffda" width="100%"/>
