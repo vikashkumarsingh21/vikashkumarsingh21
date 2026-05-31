@@ -61,9 +61,9 @@
 class VikasKumarSingh:
 
     name        = "Vikas Kumar Singh"
-    title       = "AI & ML Engineer | Full Stack Developer"
+    title       = "AI & ML Student | Full Stack Developer | IoT Innovator"
     university  = "Marwadi University, Rajkot, Gujarat"
-    degree      = "B.Tech CSE – AI & ML  |  CGPA: 7.85 / 10"
+    degree      = "B.Tech CSE – AI & ML "
     email       = "vk0102103@gmail.com"
     location    = "Rajkot, Gujarat, India 🇮🇳"
 
@@ -510,7 +510,7 @@ expertise:
 <a href="https://www.linkedin.com/in/vikas-kumar-0803r/">
   <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://portfolio-cb1t.onrender.com/">
+<a href="https://vikash-portfolio-ochre.vercel.app/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/vikashkumarsingh21">
