@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/vikas-kumar-0803r/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://portfolio-cb1t.onrender.com/" target="_blank">
+<a href="https://vikash-portfolio-ochre.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=64ffda"/>
 </a>&nbsp;
 <a href="mailto:vk0102103@gmail.com">
