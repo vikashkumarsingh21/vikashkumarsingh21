@@ -323,21 +323,21 @@ me.say_hi()
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB TROPHIES -->
-<!-- ══════════════════════════════════════════════════════════════════════════════════ -->
-
-## 🏅 &nbsp; GitHub Trophies
+## 📅 &nbsp; Contribution Calendar
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikashkumarsingh21&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Vikas's Contribution Graph](https://ghcont.vercel.app/api/graph?username=vikashkumarsingh21&theme=github-dark)](https://github.com/vikashkumarsingh21)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏆 &nbsp; GitHub Trophies
 
----
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikashkumarsingh21&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ACTIVITY GRAPH -->
